@@ -23,7 +23,7 @@
   "homepage": "https://github.com/pwmckenna/node-travis-encrypt",
   "bugs": "https://github.com/pwmckenna/node-travis-encrypt/issues",
   "dependencies": {
-    "ursa": "~0.8.0",
+    "ursa": "git+https://github.com/CoryGH/ursa.git#3d58df91226e5c26c8a3178e0cb4e289600e4b0d",
     "optimist": "~0.5.2",
     "colors": "~0.6.0-1",
     "travis-ci": "~1.0.0"
